@@ -6,7 +6,8 @@ A handbook outlining the lessons learned when starting a new project
 ### Talking with stackholders
 
 * Stakeholders are the people driving the project.
-* There are many types of stakeholder
+* Stakeholders define the vision and capabilities of the project.
+* There are many types of stakeholder.
   * Clients and Customers
     * These are the people who pay for the project
       * via monetary means
@@ -23,9 +24,6 @@ A handbook outlining the lessons learned when starting a new project
     * Any thirdparty system your software interacts with has rules and limits.
       * request/second
       * dollars/month
-* Stakeholders define the vision and capabilities of a project
-
-
 
 ### Functional requirements
  * Those requirements that cause the product to do something.
