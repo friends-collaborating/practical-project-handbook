@@ -42,7 +42,19 @@ I worked in carpentry for a few summers before I started developing software ful
 ### Non-Functional requirements
  * Those requirements that specify how well the product does what it does. 
 
-## 2. Implementation
+## 2. Development
+
+### The Development Environments
+
+* Develop against the same tools you are going to deploy against.
+  * If you are going to run your application on Redhat Linux you should make sure you develop on Redhat Linux (or CENTOS).
+  * Vagrant + Virtualbox makes this easier than ever before.
+  * If you need a database, and for production you picked PostgreSQL, you should develop against PostgreSQL, not sqlite.
+ 
+### The Development Process
+
+The following are things we do and think about at the start of the development process.
+
 * Data Modeling
 * JSON Validation
 * Error Handling
